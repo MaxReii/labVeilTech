@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>time on Hugo Winston Theme</title>
+    <link>/tags/time/</link>
+    <description>Recent content in time on Hugo Winston Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/time/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comment j&#39;ai mis en place ma veille</title>
+      <link>/posts/ma-veille/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/ma-veille/</guid>
+      <description>Optimiser ma Veille Technologique en UX/UI Design : Un Aperçu de ma Méthode La veille technologique en UX/UI Design est cruciale pour rester à jour dans un domaine en constante évolution. Personnellement, j&amp;rsquo;ai développé une approche efficace en utilisant FigJam de Figma, une plateforme collaborative, pour organiser mes ressources et liens utiles. Sur ma board FigJam dédiée, je compile des liens vers des vidéos YouTube, des tutoriels, et des articles qui couvrent divers aspects de l&amp;rsquo;UX/UI Design.</description>
+    </item>
+    <item>
+      <title>Expérimentation - Design System</title>
+      <link>/posts/experimentation-designsystem/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/experimentation-designsystem/</guid>
+      <description>Mon expérience avec les design systems Lors de la création de maquettes UI, j&amp;rsquo;ai souvent ressenti le besoin d&amp;rsquo;intégrer des design systems pour garantir une cohérence visuelle et faciliter le partage des composants au sein de mon équipe. Cette approche s&amp;rsquo;est révélée cruciale pour améliorer le rendu client et accélérer le processus de conception.
+Récemment, dans le cadre d&amp;rsquo;un projet scolaire, j&amp;rsquo;ai décidé de mettre en place un design system. Ma première étape a été de chercher des ressources en ligne, et c&amp;rsquo;est là que je suis tombé sur une vidéo particulièrement instructive :</description>
+    </item>
+    <item>
+      <title>Maximiser l&#39;Efficacité avec Figma dans un Environnement d&#39;Équipe</title>
+      <link>/posts/controls-the-past/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/controls-the-past/</guid>
+      <description>Optimiser la collaboration entre les développeurs et UX Designers La cohésion entre les différents corps de métier dans le domaine du web est cruciale pour assurer le succès des projets. Une collaboration harmonieuse entre les développeurs, UX designers et autres membres de l&amp;rsquo;équipe garantit une compréhension commune des objectifs, une communication fluide et une exécution efficace. Cette synergie permet de surmonter les obstacles potentiels et d&amp;rsquo;offrir des produits numériques cohérents et convaincants.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>UX,UI Designer on Hugo Winston Theme</title>
-    <link>/</link>
-    <description>Recent content in UX,UI Designer on Hugo Winston Theme</description>
+    <title>writing on Hugo Winston Theme</title>
+    <link>/tags/writing/</link>
+    <description>Recent content in writing on Hugo Winston Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comment j&#39;ai mis en place ma veille</title>
       <link>/posts/ma-veille/</link>
@@ -29,14 +29,6 @@ Récemment, dans le cadre d&amp;rsquo;un projet scolaire, j&amp;rsquo;ai décid�
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       <guid>/posts/controls-the-past/</guid>
       <description>Optimiser la collaboration entre les développeurs et UX Designers La cohésion entre les différents corps de métier dans le domaine du web est cruciale pour assurer le succès des projets. Une collaboration harmonieuse entre les développeurs, UX designers et autres membres de l&amp;rsquo;équipe garantit une compréhension commune des objectifs, une communication fluide et une exécution efficace. Cette synergie permet de surmonter les obstacles potentiels et d&amp;rsquo;offrir des produits numériques cohérents et convaincants.</description>
-    </item>
-    <item>
-      <title>Maximiser l&#39;Impact de la Conception avec le Prototypage et le User Testing sur Figma</title>
-      <link>/posts/sanity-not-statistical/</link>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/sanity-not-statistical/</guid>
-      <description>En bref de quoi parle cette vidéo ? La vidéo débute en explorant les bases de la création d&amp;rsquo;un prototype dans Figma, mettant en avant des conseils pratiques sur les raccourcis et l&amp;rsquo;organisation en sections des prototypes. Elle aborde ensuite l&amp;rsquo;importance cruciale du nommage dans le processus de conception, soulignant comment une gestion appropriée des noms peut simplifier le flux de travail et la collaboration.
-Le contenu de la vidéo se développe en traitant des fonctionnalités avancées telles que le défilement, l&amp;rsquo;auto-layout, et l&amp;rsquo;utilisation stratégique des variables.</description>
     </item>
     <item>
       <title>Construire son portfolio d&#39;ux/ui designer</title>

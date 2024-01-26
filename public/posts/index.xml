@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>UX,UI Designer on Hugo Winston Theme</title>
-    <link>/</link>
-    <description>Recent content in UX,UI Designer on Hugo Winston Theme</description>
+    <title>Articles on Hugo Winston Theme</title>
+    <link>/posts/</link>
+    <description>Recent content in Articles on Hugo Winston Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comment j&#39;ai mis en place ma veille</title>
       <link>/posts/ma-veille/</link>
